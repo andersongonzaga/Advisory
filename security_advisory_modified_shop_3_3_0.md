@@ -13,7 +13,7 @@ Time-Based Blind SQL Injection (CWE-89), identified by static analysis and confi
 | | |
 |---|---|
 | **Vulnerability** | Time-Based Blind SQL Injection |
-| **Product** | Modified eCommerce Shopsoftware |
+| **Product** | Modified eCommerce Shopsoftware  ([modified-shop/modified-shop](https://github.com/modified-shop/modified-shop)) |
 | **Affected Version** | 3.3.0 rev 16825 |
 | **Affected Component** | `admin/csv_backend.php` |
 | **Affected Action** | `save` |
